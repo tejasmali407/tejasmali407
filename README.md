@@ -1,4 +1,4 @@
-# Hi, I'm Tejas 👋  
+# Hi, I'm Tejas Mali  
 
 🚀 **Web Developer | JavaScript Enthusiast**
 
@@ -13,7 +13,6 @@
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/)
 
 ---
 
@@ -23,6 +22,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
